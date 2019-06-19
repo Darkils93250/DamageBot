@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const Client = new Discord.Client();
 Client.commands = new Discord.Collection();
 const fs = require('fs');
-Client.login('NTg2NTgwNDcxMzU0MjI4NzQ3.XPqF0A.f-2Nkhh2O1CV4gkJQUEP0gs78Lc')
+Client.login('')
 
 var prefix = ("$");
 
